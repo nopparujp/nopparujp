@@ -1,5 +1,5 @@
 ## About Me:
-- Hi, I’m Nopparuj Poonsubanan (ta)
+- Hi, I’m Nopparuj Poonsubanan
 - Computer Engineering @ Chulalongkorn University
 
 ## Experience:
@@ -7,6 +7,7 @@
 - Data Science
 - Web Development
 - Linux Administration
+- Kubernetes
   
 ## Languages and tools:
 <div>
